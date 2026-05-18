@@ -15,22 +15,22 @@ University of Illinois at Urbana-Champaign에서 회계학과 데이터사이언
 
 ## Projects
 
-### 1. Tweets Project(https://hjoo321.github.io/Tweets-Project/)
+### [1. Tweets Project](https://hjoo321.github.io/Tweets-Project/)
 
 - **목표**: 항공사별 SNS 코멘트를 기반으로 각 댓글을 긍정, 중립, 부정으로 분류했습니다.
 - **사용 알고리즘**: LinearSVC
 
-### 2. Housing Project(https://hjoo321.github.io/Housing-Project/)
+### 2. [Housing Project](https://hjoo321.github.io/Housing-Project/)
 
 - **목표**: Zillow 등 미국 부동산 중개 사이트 데이터를 기반으로 부동산 가격을 예측했습니다.
 - **사용 알고리즘**: HGB Regressor
 
-### 3. Swing Project(https://hjoo321.github.io/Swing-Project/)
+### 3. [Swing Project](https://hjoo321.github.io/Swing-Project/)
 
 - **목표**: 야구 피칭 데이터를 기반으로 타자의 스윙 여부를 분류했습니다.
 - **사용 알고리즘**: Calibrated Classifier
 
-### 4. Fraud Project(https://hjoo321.github.io/Fraud-Project/)
+### 4. [Fraud Project](https://hjoo321.github.io/Fraud-Project/)
 
 - **목표**: 카드사 거래 데이터를 기반으로 거래의 안전성을 분류했습니다.
 - **사용 알고리즘**: Logistic Regression
